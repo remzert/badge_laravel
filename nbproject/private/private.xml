@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/wamp/www/Badge/database/migrations/2017_08_01_125805_create_badges_table.php</file>
+            <file>file:/F:/wamp/www/Badge/routes/web.php</file>
+            <file>file:/F:/wamp/www/Badge/app/Http/Controllers/NotificationController.php</file>
+            <file>file:/F:/wamp/www/Badge/lib/badge/tests/BadgeTest.php</file>
+            <file>file:/F:/wamp/www/Badge/app/Providers/EventServiceProvider.php</file>
+            <file>file:/F:/wamp/www/Badge/resources/views/layouts/app.blade.php</file>
+            <file>file:/F:/wamp/www/Badge/lib/badge/README.md</file>
+            <file>file:/F:/wamp/www/Badge/resources/views/home.blade.php</file>
+            <file>file:/F:/wamp/www/Badge/app/Events/Premium.php</file>
+            <file>file:/F:/wamp/www/Badge/lib/badge/src/Badge.php</file>
+            <file>file:/F:/wamp/www/Badge/database/migrations/2017_08_01_125015_create_comments_table.php</file>
+            <file>file:/F:/wamp/www/Badge/database/factories/ModelFactory.php</file>
+            <file>file:/F:/wamp/www/Badge/composer.json</file>
+            <file>file:/F:/wamp/www/Badge/phpunit.xml</file>
+            <file>file:/F:/wamp/www/Badge/app/Http/Controllers/HomeController.php</file>
+            <file>file:/F:/wamp/www/Badge/app/Comment.php</file>
+            <file>file:/F:/wamp/www/Badge/app/Http/Controllers/Controller.php</file>
+            <file>file:/F:/wamp/www/Badge/lib/badge/src/migration/BadgeMigration.php</file>
+            <file>file:/F:/wamp/www/Badge/lib/badge/src/BadgeSubscriber.php</file>
+            <file>file:/F:/wamp/www/Badge/app/Http/Controllers/CommentController.php</file>
+            <file>file:/F:/wamp/www/Badge/lib/badge/src/Notifications/BadgeUnlocked.php</file>
+            <file>file:/F:/wamp/www/Badge/app/User.php</file>
+        </group>
+    </open-files>
+</project-private>
