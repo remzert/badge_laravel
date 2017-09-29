@@ -28,7 +28,7 @@ class BadgeSubscriber
         public function subscribe($events)
         {
             $events->listen('eloquent.saved: App\Comment', [$this, 'onNewComment']);
-            $events->listen('App\Events\premium', [$this, 'onPremium']);
+            $events->listen('App\Events\Premium', [$this, 'onPremium']);
         }
         
         public function notifyBadgeUnlock($user, $badge ){
